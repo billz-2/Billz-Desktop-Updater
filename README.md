@@ -7,5 +7,5 @@ Steps for new release:
 3. Run this commands on app's path:
   - flutter build windows
   - flutter pub run msix:create  
-  After successfully msix file generated create new release on GitHub or update old one
-Voila! It should check and update new version
+  After successfully msix file generated create new release on GitHub or update old one.
+\nVoila! It should check and update new version
