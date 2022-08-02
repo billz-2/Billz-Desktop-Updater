@@ -8,4 +8,5 @@ Steps for new release:
   - flutter build windows
   - flutter pub run msix:create  
   After successfully msix file generated create new release on GitHub or update old one.
-\nVoila! It should check and update new version
+
+Voila! It should check and update new version
