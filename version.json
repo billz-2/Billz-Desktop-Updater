@@ -2,7 +2,9 @@
     "name":"Billz Desktop",
     "version":"1.0.0.2",
     "description":[
-        "First updates"
+        "First updates description",
+        "Second updates description",
+        "Third updates description"
     ],
-    "isForceUpdate":false
+    "isForceUpdate":true
 }
