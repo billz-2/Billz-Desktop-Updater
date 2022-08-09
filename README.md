@@ -1,4 +1,4 @@
-# Billz-Desktop-Updater
+# Billz-Desktop/Mobile-Updater
 Releasing new versions for Billz desktop app
 
 Steps for new release:
