@@ -1,9 +1,8 @@
 {
-  "version":"2.1.5",
+  "version":"1.0.23",
   "update-url":"",
   "is-force-udpate":false,
   "release notes":[
-  "Marketing sales available",
   "Notifying users about new available releases"
   ]
 }
