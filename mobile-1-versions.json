@@ -1,7 +1,7 @@
 {
   "version":"1.0.23",
   "update-url":"",
-  "is-force-udpate":false,
+  "is-force-udpate":true,
   "release notes":[
   "Notifying users about new available releases"
   ]
