@@ -1,9 +1,8 @@
 {
-  "version":"2.1.5",
+  "version":"2.1.6",
   "update-url":"",
   "is-force-udpate":false,
   "release notes":[
-  "Marketing sales available",
-  "Notifying users about new available releases"
+  "Добавлен тип оплаты долга"
   ]
 }
