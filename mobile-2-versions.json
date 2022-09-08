@@ -1,8 +1,8 @@
 {
-  "version":"2.1.6",
+  "version":"2.1.7",
   "update-url":"",
   "is-force-udpate":false,
   "release notes":[
-  "Добавлен тип оплаты долга"
+  "Исправлены некоторые важные ошибки."
   ]
 }
