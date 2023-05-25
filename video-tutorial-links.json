@@ -1,7 +1,37 @@
-// youtube videoids
-// to use add following link before ids: https://www.youtube.com/watch?v=
+/// youtube videoids
+/// to use add following link before ids: https://www.youtube.com/watch?v=
 {
   "tutorial-ids":[
-  "a5TFOq8yT8s","fm2bwMkQZwY"
-  ]
+    {
+      "title":[
+        {
+          "text":"Навигация",
+          "type":"highlighted"
+        },
+         {
+          "text":"по приложению",
+          "type":"plain"
+        },
+      ],
+      "id":"a5TFOq8yT8s"
+    },
+    {
+       "title":[
+        {
+          "text":"Как добавить ",
+          "type":"plain"
+        },
+         {
+          "text":"новый продукт",
+          "type":"highlighted"
+        },
+          {
+          "text":"?",
+          "type":"plain"
+        },
+      ],
+      "id":"fm2bwMkQZwY"
+    }
+  ],
+  
 }
