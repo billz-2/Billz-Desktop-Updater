@@ -25,7 +25,7 @@
   "1.0.3" : {
     "build_number" : 6,
     "update_url":"",
-    "migration_type" : "clear",
+    "migration_type" : "smooth",
     "is_force_update":true,
     "release notes":[]
   }
