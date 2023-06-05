@@ -22,8 +22,8 @@
     "is_force_update":true,
     "release notes":[]
   },
-  "1.0.3" : {
-    "build_number" : 6,
+  "1.0.4" : {
+    "build_number" : 10,
     "update_url":"",
     "migration_type" : "smooth",
     "is_force_update":true,
