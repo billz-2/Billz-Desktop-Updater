@@ -1,0 +1,32 @@
+{
+  "1.0.0" : {
+    "build_number" : 3,
+    "update_url":"",
+    "migration_type" : "smooth",
+    "is_force_update":true,
+    "release notes":[]
+  },
+  "1.0.1" : {
+    "build_number" : 4,
+    "version":"1.0.2",
+    "update_url":"",
+    "migration_type" : "clear",
+    "is_force_update":true,
+    "release notes":[]
+  },
+  "1.0.2" : {
+    "build_number" : 5,
+    "version":"1.0.2",
+    "update_url":"",
+    "migration_type" : "delete",
+    "is_force_update":true,
+    "release notes":[]
+  },
+  "1.0.3" : {
+    "build_number" : 6,
+    "update_url":"",
+    "migration_type" : "smooth",
+    "is_force_update":true,
+    "release notes":[]
+  }
+}
