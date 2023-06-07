@@ -35,5 +35,13 @@
     "migration_type" : "clear",
     "is_force_update":true,
     "release notes":[]
+  },
+  
+  "1.1.1" : {
+    "build_number" : 13,
+    "update_url":"",
+    "migration_type" : "smooth",
+    "is_force_update":true,
+    "release notes":[]
   }
 }
