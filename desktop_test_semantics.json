@@ -36,11 +36,17 @@
     "is_force_update":true,
     "release notes":[]
   },
-  
-  "1.1.1" : {
+  "1.1.2" : {
+    "build_number" : 12,
+    "update_url":"",
+    "migration_type" : "clear",
+    "is_force_update":true,
+    "release notes":[]
+  },
+  "1.2.0" : {
     "build_number" : 13,
     "update_url":"",
-    "migration_type" : "smooth",
+    "migration_type" : "clear",
     "is_force_update":true,
     "release notes":[]
   }
