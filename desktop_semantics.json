@@ -37,8 +37,8 @@
     "release notes":[]
   },
   
-  "1.1.0" : {
-    "build_number" : 7,
+  "1.1.1" : {
+    "build_number" : 8,
     "update_url":"",
     "migration_type" : "clear",
     "is_force_update":true,
