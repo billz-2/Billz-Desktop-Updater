@@ -49,5 +49,12 @@
     "migration_type" : "clear",
     "is_force_update":true,
     "release notes":[]
+  },
+  "1.3.0" : {
+    "build_number" : 14,
+    "update_url":"",
+    "migration_type" : "smooth",
+    "is_force_update":true,
+    "release notes":[]
   }
 }
