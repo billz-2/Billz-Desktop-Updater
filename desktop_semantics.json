@@ -53,7 +53,7 @@
   "1.2.1" : {
     "build_number" : 10,
     "update_url":"",
-    "migration_type" : "clear",
+    "migration_type" : "delete",
     "is_force_update":true,
     "release notes":[]
   }
