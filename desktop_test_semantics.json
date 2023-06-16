@@ -46,7 +46,14 @@
   "1.2.0" : {
     "build_number" : 13,
     "update_url":"",
-    "migration_type" : "clear",
+    "migration_type" : "delete",
+    "is_force_update":true,
+    "release notes":[]
+  },
+  "1.2.1" : {
+    "build_number" : 13,
+    "update_url":"",
+    "migration_type" : "delete",
     "is_force_update":true,
     "release notes":[]
   },
