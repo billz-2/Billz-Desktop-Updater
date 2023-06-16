@@ -70,5 +70,12 @@
     "migration_type" : "clear",
     "is_force_update":true,
     "release notes":[]
+  },
+  "1.5.0" : {
+    "build_number" : 16,
+    "update_url":"",
+    "migration_type" : "delete",
+    "is_force_update":true,
+    "release notes":[]
   }
 }
