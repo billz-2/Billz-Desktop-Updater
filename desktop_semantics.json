@@ -41,7 +41,7 @@
   },
   "1.3.2" : {
     "build_number" : 13,
-    "migration_type" : "delete",
+    "migration_type" : "clear",
     "last_test_version": "1.6.1"
   }
 }
