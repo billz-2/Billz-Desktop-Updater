@@ -84,5 +84,12 @@
     "migration_type" : "clear",
     "is_force_update":true,
     "release notes":[]
+  },
+  "1.6.1" : {
+    "build_number" : 18,
+    "update_url":"",
+    "migration_type" : "clear",
+    "is_force_update":true,
+    "release notes":[]
   }
 }
