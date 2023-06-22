@@ -43,5 +43,10 @@
     "build_number" : 13,
     "migration_type" : "clear",
     "last_test_version": "1.6.1"
+  },
+  "1.3.3" : {
+    "build_number" : 14,
+    "migration_type" : "smooth",
+    "last_test_version": "1.6.2"
   }
 }
