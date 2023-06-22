@@ -50,5 +50,9 @@
   "1.6.1" : {
     "build_number" : 18,
     "migration_type" : "clear"
+  },
+  "1.6.2" : {
+    "build_number" : 19,
+    "migration_type" : "smooth"
   }
 }
