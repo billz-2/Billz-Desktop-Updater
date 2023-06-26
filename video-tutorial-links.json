@@ -29,6 +29,40 @@
         }
       ],
       "id": "fm2bwMkQZwY"
+    },
+      {
+      "title": [
+        {
+          "text": "Как сделать ",
+          "type": "plain"
+        },
+        {
+          "text": "новую продажу",
+          "type": "highlighted"
+        },
+        {
+          "text": "?",
+          "type": "plain"
+        }
+      ],
+      "id": "MX5TFigPt0Q"
+    },
+      {
+      "title": [
+        {
+          "text": "Как смотреть ",
+          "type": "plain"
+        },
+        {
+          "text": "детали продажи",
+          "type": "highlighted"
+        },
+        {
+          "text": "?",
+          "type": "plain"
+        }
+      ],
+      "id": "rmOk_7qF_EQ"
     }
   ]
 }
