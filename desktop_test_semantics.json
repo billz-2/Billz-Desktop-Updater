@@ -61,7 +61,7 @@
   },
   "1.7.0" : {
     "build_number" : 21,
-    "migration_type" : "clear"
+    "migration_type" : "delete"
   },
   "1.8.0" : {
     "build_number" : 22,
