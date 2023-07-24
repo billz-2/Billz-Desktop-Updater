@@ -58,5 +58,10 @@
     "build_number" : 16,
     "migration_type" : "delete",
     "last_test_version": "1.8.0"
+  },
+  "1.5.0" : {
+    "build_number" : 17,
+    "migration_type" : "delete",
+    "last_test_version": "1.9.1"
   }
 }
