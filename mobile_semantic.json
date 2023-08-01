@@ -1,4 +1,12 @@
 {
-  "use_new": true,
-  "add": 1
+  "4.0.0" : {
+    "force_update": false,
+    "downgrade_all": false,
+    "use_new": true,
+    "company_ids" : [
+      "id1",
+      "id2",
+      "id3"
+    ]
+  }
 }
