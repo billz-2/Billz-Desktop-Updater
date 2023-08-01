@@ -1,12 +1,18 @@
 {
   "4.0.0" : {
-    "force_update": false,
-    "downgrade_all": false,
-    "use_new": true,
-    "company_ids" : [
-      "id1",
-      "id2",
-      "id3"
-    ]
-  }
+    "use_old_all": false,
+    "company_ids_for_old" : [],
+  },
+  "4.1.0" : {
+    "use_old_all": false,
+    "company_ids_for_old" : [
+      "company2_id"
+    ],
+  },
+  "4.2.0" : {
+    "use_old_all": false,
+    "company_ids_for_old" : [
+      "company1_id"
+    ],
+  },
 }
