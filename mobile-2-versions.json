@@ -1,7 +1,7 @@
 {
   "version":"2.1.20",
   "update-url":"",
-  "is-force-udpate":false,
+  "is-force-udpate":true,
   "release notes":[
     "Исправления:",
       "- Исправлены ошибки с плавающими числами в новых распродажах.",
