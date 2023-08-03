@@ -13,9 +13,9 @@
 "code":"TJ"
 },
 {
-"name":"Qirg'iziston"
+"name":"Qirg'iziston",
 "code":"KG"
-},
+}
 ],
 "RU":[
 {
@@ -31,10 +31,9 @@
 "code":"TJ"
 },
 {
-"name":"Кыргызстан"
+"name":"Кыргызстан",
 "code":"KG"
-},
-
+}
 ],
 "EN":[
 {
@@ -50,8 +49,8 @@
 "code":"TJ"
 },
 {
-"name":"Kyrgyzstan"
+"name":"Kyrgyzstan",
 "code":"KG"
-},
+}
 ]
 }
