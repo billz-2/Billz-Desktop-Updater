@@ -1,8 +1,9 @@
 {
   "4.0.0" : {
-    "version":"4.0.0", 
-    "update-url":"",
-    "is-force-udpate":false,
-    "release notes":[]
+    "use_old_all": false,
+    "company_ids_for_old" : [""],
+    "update_url":"",
+    "is_force_update":false,
+    "release_notes":[""]
   }
 }
