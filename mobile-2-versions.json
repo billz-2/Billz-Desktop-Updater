@@ -1,6 +1,6 @@
   {
   "4.0.0" : {
-    "use_old_all": false,
+    "use_old_all": true,
     "company_ids_for_old": [],
     "update_url": "",
     "is_force_update": false,
