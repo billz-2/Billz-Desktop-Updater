@@ -13,7 +13,6 @@
     "is_force_update": false,
     "release_notes": []
   },
-  // starting from this version, checking force update works different
   "4.0.2" : {
     "use_old_all": true,
     "company_ids_for_old": [],
