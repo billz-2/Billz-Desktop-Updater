@@ -14,7 +14,7 @@
     "release_notes": []
   },
   "4.0.2" : {
-    "use_old_all": true,
+    "use_old_all": false,
     "company_ids_for_old": [],
     "update_url": "",
     "is_force_update": false,
