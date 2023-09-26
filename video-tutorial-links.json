@@ -64,5 +64,71 @@
       ],
       "id": "rmOk_7qF_EQ"
     }
+  ],
+"tutorial-ids-uzb": [
+    {
+      "title": [
+        {
+          "text": "Навигация",
+          "type": "highlighted"
+        },
+        {
+          "text": " по приложению",
+          "type": "plain"
+        }
+      ],
+      "id": "vL3Pigqfn6E"
+    },
+    {
+      "title": [
+        {
+          "text": "Как добавить ",
+          "type": "plain"
+        },
+        {
+          "text": "новый продукт",
+          "type": "highlighted"
+        },
+        {
+          "text": "?",
+          "type": "plain"
+        }
+      ],
+      "id": "rtZWFR0zlKs"
+    },
+      {
+      "title": [
+        {
+          "text": "Как сделать ",
+          "type": "plain"
+        },
+        {
+          "text": "новую продажу",
+          "type": "highlighted"
+        },
+        {
+          "text": "?",
+          "type": "plain"
+        }
+      ],
+      "id": "j_45-2SNiTM"
+    },
+      {
+      "title": [
+        {
+          "text": "Как смотреть ",
+          "type": "plain"
+        },
+        {
+          "text": "детали продажи",
+          "type": "highlighted"
+        },
+        {
+          "text": "?",
+          "type": "plain"
+        }
+      ],
+      "id": "ygabgtUr-M4"
+    }
   ]
 }
